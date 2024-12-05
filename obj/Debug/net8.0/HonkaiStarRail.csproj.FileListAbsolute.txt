@@ -1,0 +1,14 @@
+/home/ngauv-nicolas/Desktop/M2PluriTAL/Cours_M2/S3/Prog_Objet/Projet/HonkaiStarRail/bin/Debug/net8.0/HonkaiStarRail
+/home/ngauv-nicolas/Desktop/M2PluriTAL/Cours_M2/S3/Prog_Objet/Projet/HonkaiStarRail/bin/Debug/net8.0/HonkaiStarRail.deps.json
+/home/ngauv-nicolas/Desktop/M2PluriTAL/Cours_M2/S3/Prog_Objet/Projet/HonkaiStarRail/bin/Debug/net8.0/HonkaiStarRail.runtimeconfig.json
+/home/ngauv-nicolas/Desktop/M2PluriTAL/Cours_M2/S3/Prog_Objet/Projet/HonkaiStarRail/bin/Debug/net8.0/HonkaiStarRail.dll
+/home/ngauv-nicolas/Desktop/M2PluriTAL/Cours_M2/S3/Prog_Objet/Projet/HonkaiStarRail/bin/Debug/net8.0/HonkaiStarRail.pdb
+/home/ngauv-nicolas/Desktop/M2PluriTAL/Cours_M2/S3/Prog_Objet/Projet/HonkaiStarRail/obj/Debug/net8.0/HonkaiStarRail.GeneratedMSBuildEditorConfig.editorconfig
+/home/ngauv-nicolas/Desktop/M2PluriTAL/Cours_M2/S3/Prog_Objet/Projet/HonkaiStarRail/obj/Debug/net8.0/HonkaiStarRail.AssemblyInfoInputs.cache
+/home/ngauv-nicolas/Desktop/M2PluriTAL/Cours_M2/S3/Prog_Objet/Projet/HonkaiStarRail/obj/Debug/net8.0/HonkaiStarRail.AssemblyInfo.cs
+/home/ngauv-nicolas/Desktop/M2PluriTAL/Cours_M2/S3/Prog_Objet/Projet/HonkaiStarRail/obj/Debug/net8.0/HonkaiStarRail.csproj.CoreCompileInputs.cache
+/home/ngauv-nicolas/Desktop/M2PluriTAL/Cours_M2/S3/Prog_Objet/Projet/HonkaiStarRail/obj/Debug/net8.0/HonkaiStarRail.dll
+/home/ngauv-nicolas/Desktop/M2PluriTAL/Cours_M2/S3/Prog_Objet/Projet/HonkaiStarRail/obj/Debug/net8.0/refint/HonkaiStarRail.dll
+/home/ngauv-nicolas/Desktop/M2PluriTAL/Cours_M2/S3/Prog_Objet/Projet/HonkaiStarRail/obj/Debug/net8.0/HonkaiStarRail.pdb
+/home/ngauv-nicolas/Desktop/M2PluriTAL/Cours_M2/S3/Prog_Objet/Projet/HonkaiStarRail/obj/Debug/net8.0/HonkaiStarRail.genruntimeconfig.cache
+/home/ngauv-nicolas/Desktop/M2PluriTAL/Cours_M2/S3/Prog_Objet/Projet/HonkaiStarRail/obj/Debug/net8.0/ref/HonkaiStarRail.dll
