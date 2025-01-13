@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "6nFU0jQq7oI=",
+  "dgSpecHash": "eNl9Lk0g108=",
   "success": true,
   "projectFilePath": "/home/ngauv-nicolas/Desktop/M2PluriTAL/Cours_M2/S3/Prog_Objet/Projet/HonkaiStarRail/HonkaiStarRail.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/ngauv-nicolas/.nuget/packages/htmlagilitypack/1.11.71/htmlagilitypack.1.11.71.nupkg.sha512"
+  ],
   "logs": []
 }

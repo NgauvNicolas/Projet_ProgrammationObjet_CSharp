@@ -1,4 +1,3 @@
-character,rarity,path,combat_type
 march_7th,4,preservation,ice
 dan_heng,4,hunt,wind
 himeko,5,erudition,fire

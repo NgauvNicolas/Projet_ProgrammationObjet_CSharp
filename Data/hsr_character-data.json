@@ -1,0 +1,200 @@
+[
+    {
+        "name": "march_7th",
+        "rarity": "4",
+        "path": "preservation",
+        "combat_type": "ice"
+    },
+    {
+        "name": "dan_heng",
+        "rarity": "4",
+        "path": "hunt",
+        "combat_type": "wind"
+    },
+    {
+        "name": "himeko",
+        "rarity": "5",
+        "path": "erudition",
+        "combat_type": "fire"
+    },
+    {
+        "name": "welt",
+        "rarity": "5",
+        "path": "nihility",
+        "combat_type": "imaginary"
+    },
+    {
+        "name": "kafka",
+        "rarity": "5",
+        "path": "nihility",
+        "combat_type": "lightning"
+    },
+    {
+        "name": "silver_wolf",
+        "rarity": "5",
+        "path": "nihility",
+        "combat_type": "quantum"
+    },
+    {
+        "name": "arlan",
+        "rarity": "4",
+        "path": "destruction",
+        "combat_type": "lightning"
+    },
+    {
+        "name": "asta",
+        "rarity": "4",
+        "path": "harmony",
+        "combat_type": "fire"
+    },
+    {
+        "name": "herta",
+        "rarity": "4",
+        "path": "erudition",
+        "combat_type": "ice"
+    },
+    {
+        "name": "bronya",
+        "rarity": "5",
+        "path": "harmony",
+        "combat_type": "wind"
+    },
+    {
+        "name": "seele",
+        "rarity": "5",
+        "path": "hunt",
+        "combat_type": "quantum"
+    },
+    {
+        "name": "serval",
+        "rarity": "4",
+        "path": "erudition",
+        "combat_type": "lightning"
+    },
+    {
+        "name": "gepard",
+        "rarity": "5",
+        "path": "preservation",
+        "combat_type": "ice"
+    },
+    {
+        "name": "natasha",
+        "rarity": "4",
+        "path": "abundance",
+        "combat_type": "physical"
+    },
+    {
+        "name": "pela",
+        "rarity": "4",
+        "path": "nihility",
+        "combat_type": "ice"
+    },
+    {
+        "name": "clara",
+        "rarity": "5",
+        "path": "destruction",
+        "combat_type": "physical"
+    },
+    {
+        "name": "sampo",
+        "rarity": "4",
+        "path": "nihility",
+        "combat_type": "wind"
+    },
+    {
+        "name": "hook",
+        "rarity": "4",
+        "path": "destruction",
+        "combat_type": "fire"
+    },
+    {
+        "name": "luka",
+        "rarity": "4",
+        "path": "nihility",
+        "combat_type": "physical"
+    },
+    {
+        "name": "qingque",
+        "rarity": "4",
+        "path": "erudition",
+        "combat_type": "quantum"
+    },
+    {
+        "name": "tingyun",
+        "rarity": "4",
+        "path": "harmony",
+        "combat_type": "lightning"
+    },
+    {
+        "name": "luocha",
+        "rarity": "5",
+        "path": "abundance",
+        "combat_type": "imaginary"
+    },
+    {
+        "name": "jing_yuan",
+        "rarity": "5",
+        "path": "erudition",
+        "combat_type": "lightning"
+    },
+    {
+        "name": "blade",
+        "rarity": "5",
+        "path": "destruction",
+        "combat_type": "wind"
+    },
+    {
+        "name": "sushang",
+        "rarity": "4",
+        "path": "hunt",
+        "combat_type": "physical"
+    },
+    {
+        "name": "yukong",
+        "rarity": "4",
+        "path": "harmony",
+        "combat_type": "imaginary"
+    },
+    {
+        "name": "yanqing",
+        "rarity": "5",
+        "path": "hunt",
+        "combat_type": "ice"
+    },
+    {
+        "name": "bailu",
+        "rarity": "5",
+        "path": "abundance",
+        "combat_type": "lightning"
+    },
+    {
+        "name": "trailblazer_0",
+        "rarity": "5",
+        "path": "destruction",
+        "combat_type": "physical"
+    },
+    {
+        "name": "trailblazer_1",
+        "rarity": "5",
+        "path": "preservation",
+        "combat_type": "fire"
+    },
+    {
+        "name": "dan_heng_IL",
+        "rarity": "5",
+        "path": "destruction",
+        "combat_type": "imaginary"
+    },
+    {
+        "name": "lynx",
+        "rarity": "4",
+        "path": "abundance",
+        "combat_type": "quantum"
+    },
+    {
+        "name": "fu_xuan",
+        "rarity": "5",
+        "path": "preservation",
+        "combat_type": "quantum"
+    }
+]

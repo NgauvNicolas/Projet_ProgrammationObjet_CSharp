@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HonkaiStarRail")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed6a55916c341f30b10cf7340f87b9f5cbff4e46")]
 [assembly: System.Reflection.AssemblyProductAttribute("HonkaiStarRail")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HonkaiStarRail")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
