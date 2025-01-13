@@ -79,7 +79,7 @@ Le séparateur entre chaque suite de textes entrée doit être la tabulation (il
 
 Pour voir les warnings et erreurs :
 
-    dotnet build HonkaiStarRail.csproj
+    dotnet build HonkaiStarRail.csproj (il n'y a aucune erreur et aucun warning : tout est propre 👍 👌)
 
 Pour lancer le programme :
 
